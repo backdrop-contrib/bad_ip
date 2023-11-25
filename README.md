@@ -1,6 +1,6 @@
 # Bad IP
 
-This module check the users accessing a site using the
+This module checks the users accessing a site using the
 [IP Intelligence](https://getipintel.net/) service and does not allow them to
 create an account if the service reports the IP to be a proxy, VPN, or a bad IP.
 Other operations could be slowed down or not allowed.
@@ -8,7 +8,7 @@ Other operations could be slowed down or not allowed.
 
 ## Requirements
 
-This module requires Backdrop 1.26.0 and PHP 8.1.
+This module requires Backdrop 1.26.0 and PHP 8.2.
 
 Consult your server administrator or hosting provider if you are unsure about
 these requirements.
