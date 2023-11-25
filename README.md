@@ -8,7 +8,7 @@ Other operations could be slowed down or not allowed.
 
 ## Requirements
 
-This module requires Backdrop 1.26.0 and PHP 8.2.
+This module requires Backdrop 1.26.0, or higher version, and PHP 8.2.
 
 Consult your server administrator or hosting provider if you are unsure about
 these requirements.
@@ -38,7 +38,8 @@ As per [Terms of Service](https://getipintel.net/#TOS):
 
 ## Issues
 
-Bugs and Feature requests should be reported in the [issue queue](https://github.com/backdrop-contrib/bad_ip/issues).
+Bugs and Feature requests should be reported in the
+[issue queue](https://github.com/backdrop-contrib/bad_ip/issues).
 
 
 ## Current Maintainers
